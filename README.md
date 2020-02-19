@@ -49,7 +49,7 @@ The **xmimoncall** step is now available in your custom steps. So navigate to th
 
 
 ## Example
-This is an example of a slack slash command calling **xmimoncall** to put the user who called it on call.
+This is an example of a slack slash command calling **xmimoncall** to put the user who called it on call. The slack slash command can be found in [xMatters Labs](https://github.com/xmatters/xMatters-Labs-Flow-Steps)
 
 <kbd>
 	<img src="/media/ExampleFlow.png">
