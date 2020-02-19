@@ -1,6 +1,6 @@
 # xmimoncall Steps
 
-This step allows you to get the commit details from a given repo and user. Great for enriching notifications with relevant code commit information. 
+This step can put a user on call in a group on a shift.
 
 
 ---------
@@ -17,7 +17,7 @@ This step allows you to get the commit details from a given repo and user. Great
 * [xm.png](/xm.png) - xMatters logo
 
 # How it works
-This step puts the user who called it on call for a specific shift and on a specific team.
+This step puts the user who called it on call for a specified shift and on a specified team.
 
 
 # Installation
